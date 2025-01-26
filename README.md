@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/c740ab54-c448-4bdb-b306-dd3dd74cb6d0)
-
+![image](https://github.com/user-attachments/assets/1471174a-7281-45eb-8e8b-1cbccb094469)
 
 
 👋 Hi, I’m @K1lluaZk
