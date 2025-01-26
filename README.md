@@ -37,7 +37,6 @@
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
-<img width = "48px" src = "![image](https://github.com/user-attachments/assets/3ad2146a-2f80-4152-b271-a86f4176f640)"> </a>
 
 
 
@@ -56,7 +55,9 @@
 ![icons8-git](https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg)
 ![icons8-github](https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg)
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
-
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://user-images.githubusercontent.com/76852813/172722126-2495793f-c4f3-43cc-bfb2-14e1d6f4d3a2.svg" alt="SQL Server" style="width: 40px; height: 40px;">
+</a>
 
 
 
