@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/1471174a-7281-45eb-8e8b-1cbccb094469)
-
+![image](https://github.com/user-attachments/assets/14e34110-f8ba-40a9-8f41-b4588d51c321)
 
 👋 Hi, I’m @K1lluaZk
 👀 I’m interested in full-stack development and have been passionate about programming since a young age, especially game development. 🌱 I’m currently exploring various technologies like Python, C# SQL Server, and databases, with plans to expand into new frameworks like Django and beyond. 💞️ I’m always eager to collaborate with developers of all backgrounds, as each project is an opportunity to learn and grow. 📫 How to reach me: [email/DM/Insta]
