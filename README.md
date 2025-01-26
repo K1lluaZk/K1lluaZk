@@ -100,4 +100,8 @@ K1lluaZk
   <a href="https://www.instagram.com/m_suero_999/"><img alt="Instagram" title="Mario Suero Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </p>
  <p align="center">
+
+
+------
+Credit: [K1lluaZk](https://github.com/K1lluaZk)
   
