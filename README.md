@@ -75,7 +75,7 @@
 
 
 Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
+
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=K1lluaZk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1lluaZk&langs_count=8&theme=algolia)
 	
 
