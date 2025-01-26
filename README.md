@@ -7,10 +7,10 @@
    currently_learning = "Python and C#"
    fun_fact = "I love the programming"
    hobbies = [
-   			'Music',
-                        'Chilling',
-   		 	'Gaming',
-   			'Sci-Fi Movies'
+ 		'Music',
+ 		'Chilling',
+ 		'Gaming',
+ 		'Sci-Fi Movies'
    		]
    
    def getCity():
@@ -62,7 +62,16 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaydeep-yadav&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeep-yadav&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydeep-yadav&layout=compact&theme=github_dark"/>|
 
+
+
+## Connect with Me
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mario-de-jesus-suero-de-leon-4431602a8/"><img alt="Linkedin" title="Mario Suero" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.facebook.com/mario.suero.52"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/m_suero_999/"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ </p>
+ <p align="center">
+  
