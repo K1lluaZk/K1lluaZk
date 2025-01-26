@@ -67,7 +67,11 @@
 
 ## Github Stats
 
-
+|                                                                     My Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![My Github Graph](https://activity-graph.herokuapp.com/graph?username=K1lluaZk&theme=react-dark&hide_border=true&area=true) |
+| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=K1lluaZk&show_icons=true&theme=algolia)              | 
+| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K1lluaZk&theme=algolia)                    | 
 
 
 ## Connect with Me
