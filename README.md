@@ -4,11 +4,12 @@ K1lluaZk
   
   <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+K1lluaZk.;I'm+a+student+From+SantoDomingo.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+K1lluaZk.;I'm+a+student+From+Santo+Domingo.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
 
-![image](https://github.com/user-attachments/assets/9016c96a-5b29-4ccc-aa8d-9261b99a0c9a)
+![image](https://github.com/user-attachments/assets/20eb24be-3ddf-4cb0-96b3-9527bc81991e)
+
 
 
 ## Who am I?
