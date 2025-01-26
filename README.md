@@ -37,6 +37,7 @@
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="100" height="100">
 
 
 
@@ -45,8 +46,9 @@
 
 <p>
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django Logo" width="100" height="50">
 ![discord_1_48x48](https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png)
+<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" width="100" height="50">
 
 ### Software
 
