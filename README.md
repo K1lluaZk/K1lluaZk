@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/5e8da615-d493-49d9-a84f-d85d6848f528)
+![image](https://github.com/user-attachments/assets/9016c96a-5b29-4ccc-aa8d-9261b99a0c9a)
+
 
 ## Who am I?
  ```python
