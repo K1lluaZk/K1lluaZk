@@ -73,7 +73,7 @@ K1lluaZk
 ![icons8-github](https://user-images.githubusercontent.com/76852813/172732353-d8b662eb-8f1c-453a-82f4-00132b440aaa.svg)
 ![icons8-visual-studio-code-2019](https://user-images.githubusercontent.com/76852813/172722742-4c84455a-830a-4f69-8dcd-ac9437e52251.svg)
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="100" height="67">
-![Microsoft Visual Studio 2022](https://user-images.githubusercontent.com/76852813/184666700-16aa2892-e615-45f3-afb3-4d9a39c1aa68.png)
+![Microsoft Visual Studio 2022]([https://user-images.githubusercontent.com/76852813/184666700-16aa2892-e615-45f3-afb3-4d9a39c1aa68.png])
 
 
 
