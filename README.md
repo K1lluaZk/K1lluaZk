@@ -60,7 +60,7 @@ K1lluaZk
 
 ![discord_1_48x48](https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png)
 <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" width="100" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django Logo" width="100" height="50">
+
 
 
 
