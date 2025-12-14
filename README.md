@@ -50,7 +50,7 @@ K1lluaZk
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 ![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="60" height="60">
-<img src="https://th.bing.com/th/id/R.7c6a6093d0156bd7ca3d49d23217cb08?rik=p36b9KtUkLuZDA&pid=ImgRaw&r=0" alt="Logo" width="48" height="48" />
+<img src="https://th.bing.com/th/id/R.7c6a6093d0156bd7ca3d49d23217cb08?rik=p36b9KtUkLuZDA&pid=ImgRaw&r=0" alt="Logo" width="60" height="60" />
 
 
 
@@ -60,7 +60,7 @@ K1lluaZk
 
 ![discord_1_48x48](https://user-images.githubusercontent.com/76852813/172723444-1c9a926d-802f-4ebe-aab6-bd6a117c6eba.png)
 <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" width="100" height="50">
-<img src="https://images.seeklogo.com/logo-png/26/1/microsoft-net-framework-logo-png_seeklogo-266948.png" alt=".NET Framework Logo" width="48" height="48" />
+<img src="https://lirp.cdn-website.com/f8d3d5b2/dms3rep/multi/opt/NET_Core_Logo_1-1920w.png" alt=".NET Logo" width="48" height="48" />
 <img src="https://logospng.org/download/django/django-1536.png"  alt="Django Logo"  width="48" height="48" />
 
 
