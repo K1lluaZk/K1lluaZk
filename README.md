@@ -87,17 +87,9 @@ K1lluaZk
 
 |                                                                     My Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
- ![My Github Stats](https://github-readme-stats.vercel.app/api?username=K1lluaZk&show_icons=true&theme=algolia)             
+    
 
  ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K1lluaZk&theme=algolia)                   
-
-
-|                                                                     My top Languages                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
- ![Github Stars](https://github-readme-stats.vercel.app/api?username=K1lluaZk&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| 
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1lluaZk&langs_count=8&theme=algolia)
-	
 
 ## Connect with Me
 
