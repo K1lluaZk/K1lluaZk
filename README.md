@@ -16,7 +16,7 @@ K1lluaZk
  ```python
  class WhoAmI:
    user = 'Mario Suero'
-   currently_learning = "Python and C#"
+   currently_learning = "Python and JavaScrypt"
    fun_fact = "I love the programming"
    hobbies = [
  		'Music',
