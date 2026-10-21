@@ -42,7 +42,7 @@ K1lluaZk
 
  ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K1lluaZk&theme=algolia)                   
 
-## Pacman
+## github-pacman
 
 <div align="center">
 
