@@ -42,6 +42,27 @@ K1lluaZk
 
  ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K1lluaZk&theme=algolia)                   
 
+## Pacman
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/K1lluaZk/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/K1lluaZk/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/K1lluaZk/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
+
 ## Connect with Me
 
 
@@ -53,6 +74,7 @@ K1lluaZk
  <p align="center">
 
 ![](https://komarev.com/ghpvc/?username=K1lluaZk&style=flat-square)
+
 
 ------
 Credit: [K1lluaZk](https://github.com/K1lluaZk)
